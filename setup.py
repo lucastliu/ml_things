@@ -68,7 +68,7 @@ setup(
         "requests",
         "tqdm >= 4.27",
         "ftfy >= 5.8",
-        "matplotlib>=3.4.0",
+        "matplotlib >= 3.4.0",
     ],
     extras_require=extras,
     python_requires=">=3.6.0",
